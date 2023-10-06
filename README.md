@@ -1,9 +1,9 @@
 # Parcial Segundo Corte Desarrollo Web 🚀
 
 
-Nombre completo estudiante :
+Nombre completo estudiante : Miguel Ángel Timote
 
-Codigo :
+Codigo : 0000224918
 
 **Descripción del Problema:**
 
